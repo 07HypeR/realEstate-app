@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Real Estate",
-    "slug": "Real Estate",
+    "name": "ReState",
+    "slug": "ReState",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
